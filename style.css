@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+#num{
+    
+   
+    justify-self: center;
+    font-size: 130px;
+}
+button{
+    background-color: lightblue;
+    font-weight: bold;
+    padding: 10px;
+    margin: 5px;
+    font-size: large;
+}
